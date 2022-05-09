@@ -7,7 +7,7 @@ import sklearn
 import numpy as np
 import hmmlearn.hmm
 import sklearn.cluster
-import pickle as cpickle
+import pickle5 as cpickle
 import matplotlib.pyplot as plt
 from scipy.spatial import distance
 import sklearn.discriminant_analysis
